@@ -1,7 +1,10 @@
 # newmoviehuB
+Explore some movies recommendation
+# Stack used:
 Created with CodeSandbox
 
-Explore some movies recommendation
+HTML5, CSS3 & JavaScript and React.
+
 This app is made on React js mostly.
 
 APP:
